@@ -1,2 +1,2 @@
-# hapick
-[CS492] Yeon Su Park, Suhyeon Park, Seonghyun Yang
+# Hapick
+[CS492] Wearable User Interface - Team 1
